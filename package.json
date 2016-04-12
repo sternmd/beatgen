@@ -1,0 +1,23 @@
+{
+  "name": "beatgen",
+  "version": "1.0.0",
+  "description": "Beat Generation Quote Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sternmd/beatgen.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "sternmd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sternmd/beatgen/issues"
+  },
+  "homepage": "https://github.com/sternmd/beatgen#readme"
+}
