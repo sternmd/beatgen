@@ -1,2 +1,0 @@
-# beatgen
-Quote Generator
