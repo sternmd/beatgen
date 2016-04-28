@@ -6853,10 +6853,6 @@ figcaption a:hover {
   margin-top: 50%;
   padding-top: 50px;
 }
-.bdata div {
-  display: none;
-  cursor: pointer;
-}
 .book-header {
   position: absolute;
   bottom: 0;
