@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nixie+One|Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Nixie+One|Special+Elite|Libre+Baskerville);
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -1072,7 +1072,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Special Elite", "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.42857143;
   color: #333333;
@@ -5964,7 +5964,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Special Elite", "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6082,7 +6082,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Special Elite", "Libre Baskerville", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -6738,14 +6738,33 @@ button.close {
 body {
   background-image: url("/images/natural_paper.png");
   background-repeat: repeat;
+  font-size: 14px;
 }
 .grid-item {
-  width: 200px;
+  width: 250px;
+  margin: 0 auto;
   padding: 10px;
 }
-.grid-item--width2 {
-  width: 400px;
+.grid-item img {
+  width: 100%;
+}
+.grid {
+  margin: 0 auto;
 }
 #quoteBox {
-  margin-top: 15%;
+  margin-top: 20%;
+}
+.bookshelf {
+  margin-top: 50%;
+  padding-top: 50px;
+}
+.bdata div {
+  display: none;
+  cursor: pointer;
+}
+.book-header {
+  position: absolute;
+  bottom: 0;
+  right: 3%;
+  font-weight: bolder;
 }
