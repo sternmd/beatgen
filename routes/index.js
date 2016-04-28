@@ -26,5 +26,4 @@ router.get('/burroughs', function(req, res, next) {
   res.render('burroughs', { title: 'William S. Quotes' });
 });
 
-
 module.exports = router;
