@@ -399,7 +399,7 @@
   $('#snyder').lazylinepainter(
   {
      "svgData": snyder,
-     "strokeWidth": 3,
+     "strokeWidth": 2.25,
      "strokeColor": "#333366"
  }).lazylinepainter('paint');
   });
