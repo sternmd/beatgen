@@ -936,9 +936,6 @@ $(document).ready(function(){
     { quote:"“I hold the most archaic values on earth ... the fertility of the soul, the magic of the animals, the power-vision in solitude.... the love and ecstasy of the dance, the common work of the tribe.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“Having a place means that you know what a place means...what it means in a storied sense of myth, character and presence but also in an ecological sense...Integrating native consciousness with mythic consciousness”",
-    name:	"Gary Snyder"	},
-
     { quote:"“Clouds sink down the hills. Coffee is hot again. The dog turns and turns about, stops and sleeps.”",
     name:	"Gary Snyder"	},
 
