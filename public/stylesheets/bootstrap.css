@@ -6867,3 +6867,9 @@ figcaption a:hover {
 .navbar-default .navbar-brand {
   color: #333366;
 }
+.content {
+  position: absolute;
+  bottom: 1%;
+  left: 1%;
+  width: 30%;
+}
