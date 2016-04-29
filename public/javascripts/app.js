@@ -443,7 +443,7 @@ $(document).ready(function(){
     { quote:"“What is obscenity? And to whom?”",
     name:	"Allen Ginsberg"	},
 
-    { quote:"“Tell your secrets.(In reply to the question “How does one become a prophet?)”",
+    { quote:"“Tell your secrets. (In reply to the question “How does one become a prophet?)”",
     name:	"Allen Ginsberg"	},
 
     { quote:"“War is good business Invest your son”",
