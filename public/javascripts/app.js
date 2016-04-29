@@ -508,7 +508,7 @@ $(document).ready(function(){
 
     { quote:"“I write poetry because I want to be alone and want to talk to people.”",
     name:	"Allen Ginsberg"	},
-    { quote: "“A paranoid is someone who knows a little of what&rsquo;s going on. ”"	,
+    { quote: "“A paranoid is someone who knows a little of what&rsquo;s going on.”"	,
     name:	"William S. Burroughs"	},
 
     { quote: "“There is no intensity of love or feeling that does not involve the risk of crippling hurt. It is a duty to take this risk, to love and feel without defense or reserve.”",
@@ -1022,14 +1022,10 @@ function renderInitialQuote() {
 
   renderInitialQuote(quoteLibrary);
 
-  $('.bdata').click(function() {
-    $('div', this).toggle();
-  });
-
-
   $('#quoteButton').click(function(e) {
     e.preventDefault();
     renderInitialQuote();
+
   });//end quoteButton function
 
 });//end document ready
