@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var quoteLibrary=[
-    { quote: "“...the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars and in the middle you see the blue centerlight pop and everybody goes “Awww!”",
+    { quote: "“...the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved...”",
     name:	"Jack Kerouac" },
 
     { quote: "“One day I will find the right words, and they will be simple.”",
@@ -24,8 +24,6 @@ $(document).ready(function(){
     { quote: "“My fault, my failure, is not in the passions I have, but in my lack of control of them.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“What is that feeling when you&rsquo;re driving away from people and they recede on the plain till you see their specks dispersing? - it&rsquo;s the too-huge world vaulting us, and it&rsquo;s good-bye. But we lean forward to the next crazy venture beneath the skies.”",
-    name:	"Jack Kerouac" },
 
     { quote: "“The air was soft, the stars so fine, the promise of every cobbled alley so great, that I thought I was in a dream.”",
     name:	"Jack Kerouac" },
@@ -42,16 +40,11 @@ $(document).ready(function(){
     { quote: "“Great things are not accomplished by those who yield to trends and fads and popular opinion.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“Boys and girls in America have such a sad time together; sophistication demands that they submit to sex immediately without proper preliminary talk. Not courting talk — real straight talk about souls, for life is holy and every moment is precious.”",
-    name:	"Jack Kerouac" },
 
     { quote: "“Don&rsquo;t use the phone. People are never ready to answer it. Use poetry.”",
     name:	"Jack Kerouac" },
 
     { quote: "“I was surprised, as always, by how easy the act of leaving was, and how good it felt. The world was suddenly rich with possibility.”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“I realized these were all the snapshots which our children would look at someday with wonder, thinking their parents had lived smooth, well-ordered lives and got up in the morning to walk proudly on the sidewalks of life, never dreaming the raggedy madness and riot of our actual lives, our actual night, the hell of it, the senseless emptiness.”",
     name:	"Jack Kerouac" },
 
     { quote: "“I don&rsquo;t know, I don&rsquo;t care, and it doesn&rsquo;t make any difference.”",
@@ -66,9 +59,6 @@ $(document).ready(function(){
     { quote: "“It all ends in tears anyway.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“I have lots of things to teach you now, in case we ever meet, concerning the message that was transmitted to me under a pine tree in North Carolina on a cold winter moonlit night. It said that Nothing Ever Happened, so don't worry. It's all like a dream. Everything is ecstasy, inside. We just don't know it because of our thinking-minds. But in our true blissful essence of mind is known that everything is alright forever and forever and forever. Close your eyes, let your hands and nerve-ends drop, stop breathing for 3 seconds, listen to the silence inside the illusion of the world, and you will remember the lesson you forgot, which was taught in immense milky way soft cloud innumerable worlds long ago and not even at all. It is all one vast awakened thing. I call it the golden eternity. It is perfect. We were never really born, we will never really die. It has nothing to do with the imaginary idea of a personal self, other selves, many selves everywhere: Self is only an idea, a mortal idea. That which passes into everything is one thing. It's a dream already ended. There's nothing to be afraid of and nothing to be glad about. I know this from staring at mountains months on end. They never show any expression, they are like empty space. Do you think the emptiness of space will ever crumble away? Mountains will crumble, but the emptiness of space, which is the one universal essence of mind, the vast awakenerhood, empty and awake, will never crumble away because it was never born.”",
-    name:	"Jack Kerouac" },
-
     { quote: "“I had nothing to offer anybody except my own confusion.”",
     name:	"Jack Kerouac" },
 
@@ -79,9 +69,6 @@ $(document).ready(function(){
     name:	"Jack Kerouac" },
 
     { quote: "“What's in store for me in the direction I don't take?”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“I felt like lying down by the side of the trail and remembering it all. The woods do that to you, they always look familiar, long lost, like the face of a long-dead relative, like an old dream, like a piece of forgotten song drifting across the water, most of all like golden eternities of past childhood or past manhood and all the living and the dying and the heartbreak that went on a million years ago and the clouds as they pass overhead seem to testify (by their own lonesome familiarity) to this feeling.”",
     name:	"Jack Kerouac" },
 
     { quote: "“It always makes me proud to love the world somehow- hate's so easy compared.”",
@@ -100,9 +87,6 @@ $(document).ready(function(){
     name:	"Jack Kerouac" },
 
     { quote: "“Houses are full of things that gather dust”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“Happy. Just in my swim shorts, barefooted, wild-haired, in the red fire dark, singing, swigging wine, spitting, jumping, running—that's the way to live. All alone and free in the soft sands of the beach by the sigh of the sea out there, with the Ma-Wink fallopian virgin warm stars reflecting on the outer channel fluid belly waters. And if your cans are redhot and you can't hold them in your hands, just use good old railroad gloves, that's all.”",
     name:	"Jack Kerouac" },
 
     { quote: "“And the story of love is a long sad tale ending in graves.”",
@@ -344,9 +328,6 @@ $(document).ready(function(){
     { quote:"“Everything is holy! everybody&rsquo;s holy! everywhere is holy! everyday is in eternity! Everyman&rsquo;s an angel!”",
     name:	"Allen Ginsberg"	},
 
-    { quote:"“I really would like to stop working forever–never work again, never do anything like the kind of work I’m doing now–and do nothing but write poetry and have leisure to spend the day outdoors and go to museums and see friends. And I’d like to keep living with someone — maybe even a man — and explore relationships that way. And cultivate my perceptions, cultivate the visionary thing in me. Just a literary and quiet city-hermit existence.”",
-    name:	"Allen Ginsberg"	},
-
     { quote:"“Democracy! Bah! When I hear that I reach for my feather boa!”",
     name:	"Allen Ginsberg"	},
 
@@ -562,9 +543,6 @@ $(document).ready(function(){
     { quote: "“After one look at this planet any visitor from outer space would say &rsquo;I want to see the manager.”"	,
     name:	"William S. Burroughs"	},
 
-    { quote: "“Never do business with a religious son-of-a-bitch. His word ain&rsquo;t worth a shit -- not with the Good Lord telling him how to fuck you on the deal.”"	,
-    name:	"William S. Burroughs"	},
-
     { quote: "“Love? What is it? Most natural painkiller what there is.”",
     name:	"William S. Burroughs"	},
 
@@ -592,9 +570,6 @@ $(document).ready(function(){
     { quote: "“Panic is the sudden realization that everything around you is alive.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“Nothing exists until or unless it is observed. An artist is making something exist by observing it. And his hope for other people is that they will also make it exist by observing it. I call it &rsquo;creative observation.&rsquo; Creative viewing.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.”",
     name:	"William S. Burroughs"	},
 
@@ -611,15 +586,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“A cat&rsquo;s rage is beautiful, burning with pure cat flame, all its hair standing up and crackling blue sparks, eyes blazing and sputtering.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Whether you like it or not, you are committed to the human endeavor. I cannot ally myself with such a purely negative goal as avoidance of suffering. Suffering is a chance you take by the fact of being alive.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“I bear my burden proudly for all to see, to conquer prejudice and ignorance and hate with knowledge and sincerity and love. Whenever you are threatened by a hostile presence, you emit a thick cloud of love like an octopus squirts out ink...”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Thou shalt not be such a shit, you don&rsquo;t know you are one.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“I miss you so much your absence causes me, at times, accute pain. I don&rsquo;t mean sexually. I mean in connection with my writing.”",
@@ -650,9 +616,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“Cheat your landlord if you can -- and must -- but do not try to shortchange the Muse.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Confusion hath fuck his masterpiece.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“It&rsquo;s the little touches that make a future solid enough to destroy.”",
@@ -691,9 +654,6 @@ $(document).ready(function(){
     { quote: "“In deep sadness there is no place for sentimentality. It is as final as the mountains: a fact. There it is. When you realize it you cannot complain.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“And if you&rsquo;re doing a deal with a religious son of a bitch, get it in writing.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“Is Control controlled by its need to control? Answer: yes.”",
     name:	"William S. Burroughs"	},
 
@@ -710,9 +670,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“People have nothing to say, but they are afraid of saying nothing, so what they do say comes out flat and vapid and meaningless. The shadow of death is on every face.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Cowboy: New York hood talk means kill the mother fucker wherever you find him. A rat is a rat is a rat is a rat. Is an informer.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“A writer does not own words any more than a painter owns colors. So lets dispense with this originality fetish… Look, listen and transcribe and forget about being original.”",
@@ -745,9 +702,6 @@ $(document).ready(function(){
     { quote: "“O death where is thy sting? The man is never on time...”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“After a shooting spree, they always want to take the guns away from the people who didn&rsquo;t do it. I sure as hell wouldn&rsquo;t want to live in a society where the only people allowed guns are the police and the military.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“When you cut into the present, the future leaks out”",
     name:	"William S. Burroughs"	},
 
@@ -758,12 +712,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“Fear of death is form of stasis horrors. The dead weight of time.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“He remembers his fathers last words: Stay out of churches, son. All they got a key to is the shit house. And swear to me you’ll never wear a lawman’s badge.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Shoot the bitch and write a book. That&rsquo;s what I did.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Human, Allen, is an adjective, and its use as a noun is in itself regrettable.”",
@@ -880,9 +828,6 @@ $(document).ready(function(){
     { quote: "“How many years threaded on a needle of blood? Hands slack on lap he sits looking out at the winter dawn with the cancelled eyes of junk.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“I was never tempted by any political program... I don&rsquo;t want to hear about the fucking masses and I never did.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“What does she care for the atom bomb, the bedbugs, the cancer rent, Friendly Finance waiting to repossess her delinquent flesh… Sweet dreams, Pantopon Rose.”",
     name:	"William S. Burroughs"	},
 
@@ -915,7 +860,7 @@ $(document).ready(function(){
     { quote:"“Three-fourths of philosophy and literature is the talk of people trying to convince themselves that they really like the cage they were tricked into entering.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“I see a vision of a great rucksack revolution thousands or even millions of young Americans wandering around with rucksacks, going up to mountains to pray, making children laugh and old men glad, making young girls happy and old girls happier, all of &rsquo;em Zen Lunatics who go about writing poems that happen to appear in their heads for no reason and also by being kind and also by strange unexpected acts keep giving visions of eternal freedom to everybody and to all living creatures.”",
+    { quote:"“I see a vision of a great rucksack revolution thousands or even millions of young Americans wandering around with rucksacks, going up to mountains to pray, making children laugh and old men glad, making young girls happy and old girls happier...”",
     name:	"Gary Snyder"	},
 
     { quote:"“In Western Civilization, our elders are books.”",
@@ -1019,7 +964,8 @@ function renderInitialQuote() {
   $('#quoteButton').click(function(e) {
     e.preventDefault();
     renderInitialQuote();
-
   });//end quoteButton function
+
+
 
 });//end document ready
