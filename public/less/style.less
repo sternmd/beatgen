@@ -11,6 +11,17 @@
   font-weight: bold;
 }
 
+@media (max-width: 750px) and (min-width: 0px) {
+  .quote {
+    font-size: 28px;
+  }
+
+  .author {
+    font-size: 20px;
+  }
+}
+
+
 body {
   background-image: url("/images/natural_paper.png");
   background-repeat: repeat;
@@ -139,9 +150,22 @@ figcaption a:hover {
   margin-top: 20%;
 }
 
+@media (max-width: 750px) and (min-width: 0px) {
+  #quoteBox {
+    margin-top: 35%;
+  }
+}
+
 .bookshelf {
   margin-top:50%;
   padding-top:50px;
+}
+
+@media (max-width: 770px) and (min-width: 0px) {
+  .bookshelf {
+    margin-top:80%;
+    padding-top:120px;
+  }
 }
 
 .book-header {
@@ -149,10 +173,18 @@ figcaption a:hover {
   bottom:0;
   right:3%;
   font-weight: bolder;
+  text-decoration: underline;
+}
+
+.return-to-top {
+  float: right;
+  font-weight: bolder;
+  text-decoration: underline;
 }
 
 @media (max-width: 800px) and (min-width: 0px) {
   .book-header {
+    font-size: 20px;
     position: absolute;
     text-align: center;
     margin-left: auto;
@@ -160,11 +192,16 @@ figcaption a:hover {
     left: 0;
     right: 0;
   }
-}
 
-.return-to-top {
-  float: right;
-  font-weight: bolder;
+  .return-to-top {
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+  }
 }
 
 .navbar-default .navbar-brand {

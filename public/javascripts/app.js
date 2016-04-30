@@ -191,9 +191,6 @@ $(document).ready(function(){
     { quote: "“My eyes were glued on life and they were full of tears.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“LA is the loneliest and most brutal of American cities; NY gets god-awful cold in the winter but there's a feeling of wacky comradeship somewhere in some streets. LA is a jungle.”",
-    name:	"Jack Kerouac" },
-
     { quote: "“Forgive everyone for your own sins and be sure to tell them you love them which you do.”",
     name:	"Jack Kerouac" },
 
@@ -296,7 +293,7 @@ $(document).ready(function(){
       name:	"Allen Ginsberg"
     },
     {
-      quote:"“I saw the best minds of my generation destroyed by madness, starving hysterical naked, dragging themselves through the negro streets at dawn looking for an angry fix angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of the night.”",
+      quote:"“I saw the best minds of my generation destroyed by madness...”",
       name:	"Allen Ginsberg"
     },
     {
@@ -304,13 +301,7 @@ $(document).ready(function(){
       name:	"Allen Ginsberg"
     },
 
-    { quote:"“Concentrate on what you want to say to yourself and your friends. Follow your inner moonlight; don&rsquo;t hide the madness. You say what you want to say when you don&rsquo;t care who&rsquo;s listening.”",
-    name:	"Allen Ginsberg"	},
-
     { quote:"“We&rsquo;re all golden sunflowers inside.”",
-    name:	"Allen Ginsberg"	},
-
-    { quote:"“Poetry is not an expression of the party line. It&rsquo;s that time of night, lying in bed, thinking what you really think, making the private world public, that&rsquo;s what the poet does.”",
     name:	"Allen Ginsberg"	},
 
     { quote:"“I know too much and not enough”",
@@ -501,12 +492,6 @@ $(document).ready(function(){
     { quote: "“Silence is only frightening to people who are compulsively verbalizing.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“I don&rsquo;t care if people hate my guts; I assume most of them do. The important question is whether they are in a position to do anything about it.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Desperation is the raw material of drastic change. Only those who can leave behind everything they have ever believed in can hope to escape. ”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“Whether you sniff it smoke it eat it or shove it up your ass the result is the same: addiction.”",
     name:	"William S. Burroughs"	},
 
@@ -514,12 +499,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“If I had my way we&rsquo;d sleep every night all wrapped around each other like hibernating rattlesnakes.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“You were not there for the beginning. You will not be there for the end. Your knowledge of what is going on can only be superficial and relative”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“The first and most important thing an individual can do is to become an individual again, decontrol himself, train himself as to what is going on and win back as much independent ground for himself as possible”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Love is a haunting melody that I have never mastered, and I fear I never will.”",
@@ -549,7 +528,7 @@ $(document).ready(function(){
     { quote: "“Language is a virus from outer space”"	,
     name:	"William S. Burroughs"	},
 
-    { quote: "“Artists to my mind are the real architects of change, and not the political legislators who implement change after the fact. ”",
+    { quote: "“Artists to my mind are the real architects of change... ”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Writers, like elephants, have long, vicious memories. There are things I wish I could forget.”"	,
@@ -570,16 +549,10 @@ $(document).ready(function(){
     { quote: "“Panic is the sudden realization that everything around you is alive.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“Man is an artifact designed for space travel. He is not designed to remain in his present biologic state any more than a tadpole is designed to remain a tadpole.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“The face of &rsquo;evil&rsquo; is always the face of total need.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Knowing you might not make it... in that knowledge courage is born.”"	,
-    name:	"William S. Burroughs"	},
-
-    { quote: "“The best way to keep something bad from happening is to see it ahead of time... and you can&rsquo;t see it if you refuse to face the possibility.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“There couldn&rsquo;t be a society of people who didn&rsquo;t dream. They&rsquo;d be dead in two weeks.”",
@@ -654,9 +627,6 @@ $(document).ready(function(){
     { quote: "“In deep sadness there is no place for sentimentality. It is as final as the mountains: a fact. There it is. When you realize it you cannot complain.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“Is Control controlled by its need to control? Answer: yes.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“When he smiled the fear flew away in little pieces of light...”",
     name:	"William S. Burroughs"	},
 
@@ -672,7 +642,7 @@ $(document).ready(function(){
     { quote: "“People have nothing to say, but they are afraid of saying nothing, so what they do say comes out flat and vapid and meaningless. The shadow of death is on every face.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“A writer does not own words any more than a painter owns colors. So lets dispense with this originality fetish… Look, listen and transcribe and forget about being original.”",
+    { quote: "“A writer does not own words any more than a painter owns colors...”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Tell the truth once and for all and shut up forever.”",
@@ -681,13 +651,7 @@ $(document).ready(function(){
     { quote: "“If I knew how much you loved me, I would’ve shot you sooner.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“You see, control can never be a means to any practical end...It can never be a means to anything but more control...like junk..”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“You need a good bedside manner with doctors or you will get nowhere.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Cheat your landlord if you can and must, but do not try to shortchange the Muse. It cannot be done. You can&rsquo;t fake quality any more than you can fake a good meal.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“America is not a young land: it is old and dirty and evil. Before the settlers, before the Indians... the evil was there... waiting.”",
@@ -753,13 +717,7 @@ $(document).ready(function(){
     { quote: "“The simplest questions are the most difficult.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“Like pregnant women lose their teeth feeding the stranger, junkies lose their yellow fangs feeding the monkey.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“But you&rsquo;re an artist. You don&rsquo;t believe in decency and honesty and gratitude.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Intelligence and war are games, perhaps the only meaningful games left. If any player becomes too proficient, the game is threatened with termination.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“In Mexico your wishes have a dream power. When you want to see someone, he turns up.”",
@@ -768,7 +726,7 @@ $(document).ready(function(){
     { quote: "“If you consider any set of data without a preconceived viewpoint, then a viewpoint will emerge from the data.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“Hip - Someone who knows the score. Someone who understands 'jive talk.' Someone who is 'with it.' The expression is not subject to definition because, if you don&rsquo;t 'dig' what it means, no one can ever tell you.”",
+    { quote: "“Hip - Someone who knows the score...”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Death was in every sell of his body. He gave off a faint, greenish steam of decay. Lee imagined he would glow in the dark.”",
@@ -793,9 +751,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“Danger is a very rare commodity in these times, monopolized by intelligence agencies and stuntmen.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Control never be a means to any practical end. It can never be a means to anything but more control… Like punk.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“The purpose of my writing is to expose and arrest Nova Criminals.”",
@@ -823,12 +778,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“I would say for a great percentage of people, all they do is repeat their past. They really don&rsquo;t have a future at all.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“How many years threaded on a needle of blood? Hands slack on lap he sits looking out at the winter dawn with the cancelled eyes of junk.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“What does she care for the atom bomb, the bedbugs, the cancer rent, Friendly Finance waiting to repossess her delinquent flesh… Sweet dreams, Pantopon Rose.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“A psychotic is a guy who&rsquo;s just found out what&rsquo;s going on.”",
