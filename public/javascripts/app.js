@@ -806,9 +806,6 @@ $(document).ready(function(){
     { quote:"“The other side of the “sacred” is the sight of your beloved in the underworld, dripping with maggots.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“In the 40,000 year time scale we&rsquo;re all the same people. We&rsquo;re all equally primitive, give or take two or three thousand years here or a hundred years there.”",
-    name:	"Gary Snyder"	},
-
     { quote:"“Great Brown Bear is walking with us, Salmon swimming upstream with us, as we stroll a city street.”",
     name:	"Gary Snyder"	},
 
