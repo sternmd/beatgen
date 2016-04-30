@@ -60,9 +60,6 @@ $(document).ready(function(){
     { quote: "“Will you love me in December as you do in May?”",
     name:	"Jack Kerouac" },
 
-    { quote: "“I woke up as the sun was reddening; and that was the one distinct time in my life, the strangest moment of all, when I didn't know who I was - I was far away from home, haunted and tired with travel, in a cheap hotel room I'd never seen, hearing the hiss of steam outside, and the creak of the old wood of the hotel, and footsteps upstairs, and all the sad sounds, and I looked at the cracked high ceiling and really didn't know who I was for about fifteen strange seconds. I wasn't scared; I was just somebody else, some stranger, and my whole life was a haunted life, the life of a ghost.”",
-    name:	"Jack Kerouac" },
-
     { quote: "“My witness is the empty sky.”",
     name:	"Jack Kerouac" },
 
