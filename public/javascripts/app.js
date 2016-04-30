@@ -12,9 +12,6 @@ $(document).ready(function(){
     { quote: "“There was nowhere to go but everywhere, so just keep on rolling under the stars.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“I like too many things and get all confused and hung-up running from one falling star to another till i drop. This is the night, what it does to you. I had nothing to offer anybody except my own confusion.”",
-    name:	"Jack Kerouac" },
-
     { quote: "“The only truth is music.”",
     name:	"Jack Kerouac" },
 
@@ -60,12 +57,6 @@ $(document).ready(function(){
     name:	"Jack Kerouac" },
 
     { quote: "“I had nothing to offer anybody except my own confusion.”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“My whole wretched life swam before my weary eyes, and I realized no matter what you do it's bound to be a waste of time in the end so you might as well go mad.”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“Down on the lake rosy reflections of celestial vapor appeared, and I said, “God, I love you” and looked to the sky and really meant it. “I have fallen in love with you, God. Take care of us all, one way or the other.” To the children and the innocent it's all the same.”",
     name:	"Jack Kerouac" },
 
     { quote: "“What's in store for me in the direction I don't take?”",
@@ -114,9 +105,6 @@ $(document).ready(function(){
     name:	"Jack Kerouac" },
 
     { quote: "“Something good will come of all things yet”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“They have worries, they're counting the miles, they're thinking about where to sleep tonight, how much money for gas, the weather, how they'll get there - and all the time they'll get there anyway, you see.”",
     name:	"Jack Kerouac" },
 
     { quote:	"“Pain or love or danger makes you real again....”",
@@ -236,15 +224,6 @@ $(document).ready(function(){
     { quote: "“You&rsquo;d be surprised how little I knew even up to yesterday”",
     name:	"Jack Kerouac" },
 
-    { quote: "“What difference does it make after all?--anonymity in the world of men is better than fame in heaven, for what’s heaven? what’s earth? All in the mind.”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“The empty blue sky of space says &rsquo;All this comes back to me, then goes again, and comes back again, then goes again, and I don&rsquo;t care, it still belongs to me”",
-    name:	"Jack Kerouac" },
-
-    { quote: "“I wished I was on the same bus as her. A pain stabbed my heart as it did everytime I saw a girl I loved who was going the opposite direction in this too-big world of ours.”",
-    name:	"Jack Kerouac" },
-
     { quote: "“It&rsquo;s good-bye. But we lean forward to the next crazy venture beneath the skies”",
     name:	"Jack Kerouac" },
 
@@ -269,7 +248,7 @@ $(document).ready(function(){
     { quote: "“my karma was to be born in America where nobody has any fun or believes in anything, especially freedom.”",
     name:	"Jack Kerouac" },
 
-    { quote: "“..and that was the one distinct time in my life, the strangest moment of all, when I didnt know who I was”",
+    { quote: "“...and that was the one distinct time in my life, the strangest moment of all, when I didnt know who I was”",
     name:	"Jack Kerouac" },
 
     { quote: "“The human bones are but vain lines dawdling, the whole universe a blank mold of stars.”",
@@ -803,13 +782,10 @@ $(document).ready(function(){
     { quote:"“When the mind is exhausted of images, it invents its own.”"	,
     name:	"Gary Snyder"	},
 
-    { quote:"“I try to hold both history and the wilderness in mind, that my poems may approach the true measure of things and stand against the unbalance and ignorance of our times.”"	,
-    name:	"Gary Snyder"	},
-
     { quote:"“Three-fourths of philosophy and literature is the talk of people trying to convince themselves that they really like the cage they were tricked into entering.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“I see a vision of a great rucksack revolution thousands or even millions of young Americans wandering around with rucksacks, going up to mountains to pray, making children laugh and old men glad, making young girls happy and old girls happier...”",
+    { quote:"“I see a vision of a great rucksack revolution thousands or even millions of young Americans wandering around...”",
     name:	"Gary Snyder"	},
 
     { quote:"“In Western Civilization, our elders are books.”",
@@ -822,9 +798,6 @@ $(document).ready(function(){
     name:	"Gary Snyder"	},
 
     { quote:"“Range after range of mountains. Year after year after year. I am still in love.”",
-    name:	"Gary Snyder"	},
-
-    { quote:"“I hold the most archaic values on earth ... the fertility of the soul, the magic of the animals, the power-vision in solitude.... the love and ecstasy of the dance, the common work of the tribe.”",
     name:	"Gary Snyder"	},
 
     { quote:"“Clouds sink down the hills. Coffee is hot again. The dog turns and turns about, stops and sleeps.”",
@@ -842,25 +815,16 @@ $(document).ready(function(){
     { quote:"“I could almost love you again.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“Clarity, especially in poetry, requires conceiving of your work as a collaborative act of imagination with the audience, thus affording them the deepest respect.”",
-    name:	"Gary Snyder"	},
-
     { quote:"“The world is our consciousness, and it surrounds us.”",
     name:	"Gary Snyder"	},
 
     { quote:"“the mind poet stays in the house / the house is empty and it has no walls / the poem is seen from all sides / everywhere / at once.”",
     name:	"Gary Snyder"	},
 
-    { quote:"“White clouds gather and billow. Thin grass does for a mattress, The blue sky makes a good quilt. Happy with a stone underhead Let heaven and earth go about their changes.”",
-    name:	"Gary Snyder"	},
-
     { quote:"“Each time you go that road it gets more straight.”",
     name:	"Gary Snyder"	},
 
     { quote:"“They should listen to the unsaid words that resonate around the edge of the poem.”",
-    name:	"Gary Snyder"	},
-
-    { quote:"“Spring-water in the green creek is clear Moonlight on Cold Mountain is white Silent knowledge—the spirit is enlightened of itself Contemplate the void: this world exceeds stillness.”",
     name:	"Gary Snyder"	},
 
     { quote:"“The tribes were Berkeley, North Beach, Big Sur, Marin County, Los Angeles, and the host, Haight-Ashbury.”",
