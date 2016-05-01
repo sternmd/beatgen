@@ -3,27 +3,27 @@ var router = express.Router();
 
 /* GET homepage. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Beaitfy | A Beat Generation Quote Generator' });
+  res.render('index', { title: 'Beatitudes | A Beat Generation Quote Generator' });
 });
 
 /* GET ginsberg */
 router.get('/kerouac', function(req, res, next) {
-  res.render('kerouac', { title: 'Jack Kerouac Quotes | Beatify' });
+  res.render('kerouac', { title: 'Jack Kerouac Quotes | Beatitudes' });
 });
 
 /* GET ginsberg */
 router.get('/ginsberg', function(req, res, next) {
-  res.render('ginsberg', { title: 'Allen Ginsberg Quotes | Beatify' });
+  res.render('ginsberg', { title: 'Allen Ginsberg Quotes | Beatitudes' });
 });
 
 /* GET snyder */
 router.get('/snyder', function(req, res, next) {
-  res.render('snyder', { title: 'Gary Snyder Quotes | Beatify' });
+  res.render('snyder', { title: 'Gary Snyder Quotes | Beatitudes' });
 });
 
 /* GET burroughs */
 router.get('/burroughs', function(req, res, next) {
-  res.render('burroughs', { title: 'William S. Burroughs Quotes | Beatify' });
+  res.render('burroughs', { title: 'William S. Burroughs Quotes | Beatitudes' });
 });
 
 module.exports = router;
