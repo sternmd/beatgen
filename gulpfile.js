@@ -10,12 +10,6 @@ gulp.task('less', function(){
     .pipe(gulp.dest('public/stylesheets/'))
 });
 
-// gulp.task('react', function() {
-//   return gulp.src('public/jsx/*.js').pipe(babel({
-//       presets: ['es2015']
-//   }))
-//   .pipe(gulp.dest('dist'))
-
 gulp.task('watch', function(){
   gulp.watch('public/less/**/*.less', ['less']);
   // gulp.watch(['./public/jsx/*.js'], ['react']);
