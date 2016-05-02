@@ -825,7 +825,104 @@ $(document).ready(function(){
     name:	"Gary Snyder"	},
 
     { quote:"“The tribes were Berkeley, North Beach, Big Sur, Marin County, Los Angeles, and the host, Haight-Ashbury.”",
-    name:	"Gary Snyder"	}
+    name:	"Gary Snyder"	},
+
+    { quote:"“Standing on a street corner waiting for no one is power.”",
+    name:	"Gregory Corso"	},
+
+    { quote:"“If you believe you're a poet, then you're saved.”",
+    name:	"Gregory Corso"	},
+
+    { quote:"“If you have a choice of two things and can't decide, take both.”",
+    name:	"Gregory Corso"	},
+
+    { quote:"“If you're too open-minded; your brains will fall out.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Poetry is eternal graffiti written in the heart of everyone.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Poetry is the shadow cast by our streetlight imaginations.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Poetry is a naked woman, a naked man, and the distance between them.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Don't bow down to critics who have not themselves written great masterpieces.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“I didn’t know that painters and writers retired. They’re like soldiers – they just fade away.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“We have seen the best minds of our generation destroyed by boredom at poetry readings.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“The dog trots freely in the street / and sees reality / and the things he sees / are bigger than himself / and the things he sees / are his reality”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Poetry is the shortest distance between two humans.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“You and me could really exist.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Think long thoughts in short sentences.”",
+    name:	"Lawrence Ferlinghetti"	},
+
+    { quote:"“Christ, will I ever find someone who is not crying inside?”",
+    name:	"Lew Welch"	},
+
+    { quote:"“We invent ourselves out of ingredients we didn't choose, by a process we can't control.”",
+    name:	"Lew Welch"	},
+
+    { quote:"“Sometimes I sits and thinks. Other times I sits and drinks, but mostly I just sits.”",
+    name:	"Neal Cassady"	},
+
+    { quote:"“Each day I lacerated myself thinking on her, but I didn't go back.”",
+    name:	"Neal Cassady"	},
+
+    { quote:"“We are actually fourth dimensional beings in a third dimensional body inhabiting a second dimensional world!”",
+    name:	"Neal Cassady"	},
+
+    { quote:"“I am inside someone who hates me. I look out from his eyes.”",
+    name:	"Amiri Baraka"	},
+
+    { quote:"“You look like death eating a soda cracker.”",
+    name:	"Amiri Baraka"	},
+
+    { quote:"“The artist's role is to raise the consciousness of the people.”",
+    name:	"Amiri Baraka"	},
+
+    { quote:"“You look like death eating a soda cracker.”",
+    name:	"Amiri Baraka"	},
+
+    { quote:"“The machines are too dull when we are lion-poems that move & breathe.”",
+    name:	"Michael McClure"	},
+
+    { quote:"“We are the hurdles we leap to be ourselves.”",
+    name:	"Michael McClure"	},
+
+    { quote:"“When a man does not admit that he is an animal, he is less than an animal. Not more but less.”",
+    name:	"Michael McClure"	},
+
+    { quote:"“Bohemia is a commune in which the Revolution is over and everyone is a member of the aristocracy.”",
+    name:	"Kenneth Rexroth"	},
+
+    { quote:"“Against the ruin of the world, there is only one defense: The creative act.”",
+    name:	"Kenneth Rexroth"	},
+
+    { quote:"“My heavy heart has gone this way before.”",
+    name:	"Kenneth Rexroth"	},
+
+    { quote:"“Japanese poetry does what poetry does everywhere: it intensifies and exalts experience.”",
+    name:	"Kenneth Rexroth"	},
+
+    { quote:"“The meaning of life can be revealed but never explained.”",
+    name:	"Kenneth Rexroth"	},
+
+    { quote:"“Art is the reasoned derangement of the senses.”",
+    name:	"Kenneth Rexroth"	}
+
 ];
 
   if (author) {
