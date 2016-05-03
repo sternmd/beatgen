@@ -773,9 +773,6 @@ $(document).ready(function(){
     { quote:"“Nature is not a place to visit. It is home.”"	,
     name:	"Gary Snyder"	},
 
-    { quote:"“There are those who love to get dirty and fix things. They drink coffee at dawn, beer after work. And those who stay clean, just appreciate things. At breakfast they have milk and juice at night. There are those who do both, they drink tea.”",
-    name:	"Gary Snyder"	},
-
     { quote:"“Find your place on the planet. Dig in, and take responsibility from there.”"	,
     name:	"Gary Snyder"	},
 
