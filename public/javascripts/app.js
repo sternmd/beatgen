@@ -540,9 +540,6 @@ $(document).ready(function(){
     { quote: "“A cat&rsquo;s rage is beautiful, burning with pure cat flame, all its hair standing up and crackling blue sparks, eyes blazing and sputtering.”",
     name:	"William S. Burroughs"	},
 
-    { quote: "“I miss you so much your absence causes me, at times, accute pain. I don&rsquo;t mean sexually. I mean in connection with my writing.”",
-    name:	"William S. Burroughs"	},
-
     { quote: "“Like all pure creatures, cats are practical.”",
     name:	"William S. Burroughs"	},
 
@@ -550,9 +547,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“The dream is a spontaneous happening and therefore dangerous to a control system set-up by the non-dreamers”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“There is in fact something obscene and sinister about photography, a desire to imprison, to incorporate, a sexual intensity of pursuit.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“Nothing is True, Everything is Permitted”",
@@ -595,9 +589,6 @@ $(document).ready(function(){
     name:	"William S. Burroughs"	},
 
     { quote: "“I began to get a feeling (...) of being the only sane man in a nut house. It doesn&rsquo;t make you feel superior but depressed and scared, because there is nobody you can contact.”",
-    name:	"William S. Burroughs"	},
-
-    { quote: "“Too perfect to be sexually attractive.”",
     name:	"William S. Burroughs"	},
 
     { quote: "“I am not a person and I am not an animal. There is something I am here for something I must do before I can go.”",
