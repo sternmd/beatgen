@@ -767,6 +767,7 @@ $(document).ready(function(){
 
     { quote: "“Why are we here? We&rsquo;re here to go!”",
     name:	"William S. Burroughs"	},
+
     { quote:"“O, ah! The awareness of emptiness brings forth a heart of compassion!”",
     name:	"Gary Snyder"	},
 
@@ -827,13 +828,13 @@ $(document).ready(function(){
     { quote:"“Standing on a street corner waiting for no one is power.”",
     name:	"Gregory Corso"	},
 
-    { quote:"“If you believe you're a poet, then you're saved.”",
+    { quote:"“If you believe you&rsquo;re a poet, then you&rsquo;re saved.”",
     name:	"Gregory Corso"	},
 
-    { quote:"“If you have a choice of two things and can't decide, take both.”",
+    { quote:"“If you have a choice of two things and can&rsquo;t decide, take both.”",
     name:	"Gregory Corso"	},
 
-    { quote:"“If you're too open-minded; your brains will fall out.”",
+    { quote:"“If you&rsquo;re too open-minded; your brains will fall out.”",
     name:	"Lawrence Ferlinghetti"	},
 
     { quote:"“Poetry is eternal graffiti written in the heart of everyone.”",
@@ -845,7 +846,7 @@ $(document).ready(function(){
     { quote:"“Poetry is a naked woman, a naked man, and the distance between them.”",
     name:	"Lawrence Ferlinghetti"	},
 
-    { quote:"“Don't bow down to critics who have not themselves written great masterpieces.”",
+    { quote:"“Don&rsquo;t bow down to critics who have not themselves written great masterpieces.”",
     name:	"Lawrence Ferlinghetti"	},
 
     { quote:"“I didn’t know that painters and writers retired. They’re like soldiers – they just fade away.”",
@@ -869,13 +870,13 @@ $(document).ready(function(){
     { quote:"“Christ, will I ever find someone who is not crying inside?”",
     name:	"Lew Welch"	},
 
-    { quote:"“We invent ourselves out of ingredients we didn't choose, by a process we can't control.”",
+    { quote:"“We invent ourselves out of ingredients we didn&rsquo;t choose, by a process we can&rsquo;t control.”",
     name:	"Lew Welch"	},
 
     { quote:"“Sometimes I sits and thinks. Other times I sits and drinks, but mostly I just sits.”",
     name:	"Neal Cassady"	},
 
-    { quote:"“Each day I lacerated myself thinking on her, but I didn't go back.”",
+    { quote:"“Each day I lacerated myself thinking on her, but I didn&rsquo;t go back.”",
     name:	"Neal Cassady"	},
 
     { quote:"“We are actually fourth dimensional beings in a third dimensional body inhabiting a second dimensional world!”",
@@ -887,7 +888,7 @@ $(document).ready(function(){
     { quote:"“You look like death eating a soda cracker.”",
     name:	"Amiri Baraka"	},
 
-    { quote:"“The artist's role is to raise the consciousness of the people.”",
+    { quote:"“The artist&rsquo;s role is to raise the consciousness of the people.”",
     name:	"Amiri Baraka"	},
 
     { quote:"“You look like death eating a soda cracker.”",
