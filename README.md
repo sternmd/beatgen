@@ -133,3 +133,14 @@ var burroughs = {
 }).painter('paint');
  });
 ```
+
+
+## What's Next?
+
+* **Launch the site on its own server.**
+
+* **Create a twitter bot & tweet this button.**
+
+* Add an about page about each author.
+
+* Cont. to add more quotes and books.
